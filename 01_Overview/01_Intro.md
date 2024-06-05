@@ -25,4 +25,4 @@ Great user experiences need to be designed, they don't happen naturally.
 #### A - Accessibility: Ensure the design is accessible to all users, including those with disabilities.
 #### R - Responsiveness: Make sure the interface is responsive and performs well on various devices and screen sizes.
 #### U - Usability: Focus on creating a user-friendly design that is intuitive and easy to navigate.
-#### X - eXperience: Prioritize the overall user experience, ensuring it is pleasant, engaging, and satisfying.
+#### X - Xperience: Prioritize the overall user experience, ensuring it is pleasant, engaging, and satisfying.
